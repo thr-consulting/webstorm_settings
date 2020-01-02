@@ -1,0 +1,11 @@
+type ${Model_Name} {
+    field: String
+}
+
+extend type Query {
+    get${Model_Name}(id: String!): [${Model_Name}]
+}
+
+extend type Mutation {
+    edit${Model_Name}(id: String!): Boolean
+}

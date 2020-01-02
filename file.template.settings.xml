@@ -1,0 +1,12 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="[Imperium-Server] Context Type Declaration༏ext༏.d.ts" reformat="true" live-template-enabled="true" />
+      <template name="[Imperium-Server] Graphql Index.ts" reformat="true" live-template-enabled="true" />
+      <template name="[Imperium-Server] Graphql Schema.graphqls" reformat="true" live-template-enabled="true" />
+      <template name="[Imperium-Server] Model Index.ts" reformat="true" live-template-enabled="true" />
+      <template name="[Imperium-Server] Module Index (with Graphql).ts" reformat="true" live-template-enabled="true" />
+      <template name="[Imperium-Server] Mongoose Model.ts" reformat="true" live-template-enabled="true" />
+    </default_templates>
+  </component>
+</application>
